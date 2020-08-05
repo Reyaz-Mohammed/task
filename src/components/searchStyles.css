@@ -1,0 +1,37 @@
+.container{
+    margin: auto;
+    width: 50%;
+    padding-top: 5%;
+}
+.data-container{
+    border: 1px solid #ced4da;
+    margin-top: -17px;
+    padding-left: 15px;
+}
+.data-container.more{
+    padding-bottom: 15px;
+}
+.data-container .clist:hover{
+    cursor: pointer;
+}
+.auth-container{
+    padding: 15px;
+}
+.add-container{
+    display: flow-root;
+}
+.not-found{
+    float: left;
+}
+.add-more{
+    float: right;
+    padding: 5px;
+}
+.load-more{
+    color: #727272;
+    font-weight: 600;
+    cursor: pointer;
+    float: right;
+    padding-right: 10px;
+    margin-top: -15px;
+}
